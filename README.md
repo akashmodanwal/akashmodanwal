@@ -1,35 +1,31 @@
-### Hi there 👋
+### Hi there, This is Akash Modanwal :sunglasses:
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## I'm a Developer, Learner and Engineer.
+- 🔭 I’m currently persuing Masters!
+- 🌱 I’m currently learning Algorithms along with Devlopment!
+- ⚡ Fun fact: I like hiking and bike riding!
 
-```javascript
-const akash = {
-    pronouns: "He" | "His",
-    code: ["C++", "JavaScript","Python"],
-    askMeAbout: ["WebDevelopment", "CP"],
-    technologies: {
-        frontEnd: {
-            basicTech: ["HTML","CSS","JS","ReactJs"]
-        },
-        backEnd: {
-            frameworks: ["ExpressJS","NodeJS]
-        },
-       
-        databases: ["MySQL"]
-    },
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+### Connect with me:
 
-**Programming Languages**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash-modanwal-039284186/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/akash.phenomenal_1/)&nbsp;
 
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|--|--|--|--|
+<br />
+
+### Languages and Tools:
 
 
-**Databases**
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-|--|--|
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-
+<br />
+[instagram]: https://www.instagram.com/akash.phenomenal_1/
+[linkedin]: https://www.linkedin.com/in/akash-modanwal-039284186/
