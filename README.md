@@ -25,7 +25,3 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-
-<br />
-[instagram]: https://www.instagram.com/akash.phenomenal_1/
-[linkedin]: https://www.linkedin.com/in/akash-modanwal-039284186/
